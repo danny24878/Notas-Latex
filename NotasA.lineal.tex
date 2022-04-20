@@ -1,0 +1,67 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath,amsthm,amssymb,amsfonts,mathtools}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{geometry}  
+
+\geometry{
+    a4paper,           % Tamaño de hoja 
+    lmargin = 1.5cm,     % Left Margin
+    rmargin = 1.5cm,     % Right Margin
+    tmargin = 1.5cm,     % Top Margin
+    bmargin = 1.5cm     % Bottom Margin
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength{\parindent}{0cm}    %Sangría
+
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{corollary}{Corolario}[theorem]
+\newtheorem{lemma}{Lema}[theorem]
+\newtheorem{proposition}{Proposición}
+
+%%%%%%%%%%%% MACROS %%%%%%%%%%
+
+\DeclarePairedDelimiterX\set[1]\lbrace\rbrace{\def\given{\;\delimsize\vert\;}#1}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\V}{\mathcal{V}}
+\newcommand{\W}{\mathcal{W}}
+\newcommand{\myvec}[2][n]{({#2}_1,{#2}_2,\dots,{#2}_{#1})}
+\newcommand{\lconv}[3][n]{{#2}{#3}_1+{#2}{#3}_2 + \cdots + {#2}{#3}_{#1}}
+\newcommand{\mynum}[2][n]{{#2}_1,{#2}_2,\dots,{#2}_{#1}}
+
+
+%%%%%%%%%%%%%%%%%%%
+
+\title{Notas de Cálculo 1}
+\author{ccddjjmm@gmail.com}
+\date{August 2021}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+    \begin{center}
+    
+        \textbf{\huge Notas de Cálculo I}. 
+    
+    \end{center} 
+    
+    \hrule
+
+    \section{Axiómas, definiciones, resultados y ejercicios del primer parcial}
+
+        \subsection*{Los Números Reales }
+
+        \subsubsection*{Axiómas}
+
+             Sea $\mynum{x} \in V$ y $\mynum{a} \in F$.
+             Decimos que $\mynum{x}$ es l.i., si $\lconv{x}{a} = 0$.
+
+\end{document}
