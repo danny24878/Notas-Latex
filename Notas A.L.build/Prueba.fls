@@ -1,0 +1,19 @@
+PWD /home/danny/Notas Latex/Notas A.L.
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/danny/Notas Latex/Notas A.L./Prueba.tex
+OUTPUT /home/danny/Notas Latex/Notas A.L.build/Prueba.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def

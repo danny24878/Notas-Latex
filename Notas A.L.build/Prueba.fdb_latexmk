@@ -1,0 +1,18 @@
+# Fdb version 3
+["pdflatex"] 1650771438 "/home/danny/Notas Latex/Notas A.L./Prueba.tex" "/home/danny/Notas Latex/Notas A.L.build/Prueba.pdf" "Prueba" 1650771438
+  "/etc/texmf/web2c/texmf.cnf" 1649221534 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/danny/Notas Latex/Notas A.L./Prueba.tex" 1650771437 603 85826ae8d73d4f69caefc1433a15aec8 ""
+  "/home/danny/Notas Latex/Notas A.L.build/Prueba.aux" 1650771438 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1580683321 20023 e427dd9e17e239bf926ef3aab67fe35e ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1580683321 8446 9874cccac5fee462272c582807dbbf56 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty" 1580769101 1655 e4b882de9102a2127dc000ff79bd1938 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def" 1580854751 25404 9d60f463a00d154207ec0048dee27cf0 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty" 1581719662 4381 04628f3002bdd1d9c43ef984fd60ae18 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1581719662 81717 e93576ac4b24ce6e121ebd6ec6cf2893 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1649221985 8273742 a483a1d3842d35e91a0566cb299be370 ""
+  "Prueba.tex" 1650771437 603 85826ae8d73d4f69caefc1433a15aec8 ""
+  (generated)
+  "/home/danny/Notas Latex/Notas A.L.build/Prueba.pdf"
+  "/home/danny/Notas Latex/Notas A.L.build/Prueba.log"

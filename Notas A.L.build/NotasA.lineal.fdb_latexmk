@@ -1,15 +1,15 @@
 # Fdb version 3
-["biber /home/danny/Notas Latex/Notas A.L.build/NotasA.lineal"] 1650140182 "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bcf" "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bbl" "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal" 1650141076
-  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bcf" 1650141076 101149 2a2f7f424ae44ed6a62dc2de25cdec1e "pdflatex"
+["biber /home/danny/Notas Latex/Notas A.L.build/NotasA.lineal"] 1650771444 "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bcf" "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bbl" "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal" 1650772104
+  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bcf" 1650772104 101149 2a2f7f424ae44ed6a62dc2de25cdec1e "pdflatex"
   (generated)
-  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.blg"
   "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bbl"
-["pdflatex"] 1650141075 "/home/danny/Notas Latex/Notas A.L./NotasA.lineal.tex" "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.pdf" "NotasA.lineal" 1650141076
+  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.blg"
+["pdflatex"] 1650772103 "/home/danny/Notas Latex/Notas A.L./NotasA.lineal.tex" "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.pdf" "NotasA.lineal" 1650772104
   "/etc/texmf/web2c/texmf.cnf" 1649221534 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/danny/Notas Latex/Notas A.L./NotasA.lineal.tex" 1650141075 1352 ee8907d185680c2c4898f4c044b94e05 ""
-  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.aux" 1650141076 756 38e290fa1dccbff9e30b177553227eac "pdflatex"
-  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bbl" 1650140185 0 d41d8cd98f00b204e9800998ecf8427e "biber /home/danny/Notas Latex/Notas A.L.build/NotasA.lineal"
-  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.run.xml" 1650141076 2287 f9e112ae719cbf5d379e64d5bc390f7d "pdflatex"
+  "/home/danny/Notas Latex/Notas A.L./NotasA.lineal.tex" 1650771330 1352 ee8907d185680c2c4898f4c044b94e05 ""
+  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.aux" 1650772104 756 38e290fa1dccbff9e30b177553227eac "pdflatex"
+  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bbl" 1650771448 0 d41d8cd98f00b204e9800998ecf8427e "biber /home/danny/Notas Latex/Notas A.L.build/NotasA.lineal"
+  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.run.xml" 1650772104 2287 f9e112ae719cbf5d379e64d5bc390f7d "pdflatex"
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1136768653 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -106,11 +106,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1649221974 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1649221985 8273742 a483a1d3842d35e91a0566cb299be370 ""
-  "NotasA.lineal.tex" 1650141075 1352 ee8907d185680c2c4898f4c044b94e05 ""
-  "lib/chapter1.tex" 1650140921 414 b09245a1560bae9736c9adf90fdb90e2 ""
+  "NotasA.lineal.tex" 1650771330 1352 ee8907d185680c2c4898f4c044b94e05 ""
+  "lib/chapter1.tex" 1650772103 415 c893d9da493820c028fef295fd89f812 ""
   (generated)
-  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.log"
   "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.aux"
-  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bcf"
   "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.run.xml"
+  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.log"
+  "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bcf"
   "/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.pdf"
