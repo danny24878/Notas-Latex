@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is '/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.blg'
+[60] biber:322> INFO - === Sat Apr 16, 2022, 15:16:25
+[86] Biber.pm:415> INFO - Reading '/home/danny/Notas Latex/Notas A.L.build/NotasA.lineal.bcf'
+[134] Utils.pm:293> WARN - No data sources defined!
